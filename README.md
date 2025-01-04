@@ -44,8 +44,8 @@ The overall churn rate is 16.9%, which indicates a significant portion of custom
 
 # Recommendation:
 
-1.  Customer Retention Programs:\
-    + New users: introduce **special offers, discounts and loyalty point** for new users to encourage them to stay longer. Moreover, **develop recommendation system** to personalize onboarding experience.\
+1.  Customer Retention Programs:
+    + New users: introduce **special offers, discounts and loyalty point** for new users to encourage them to stay longer. Moreover, **develop recommendation system** to personalize onboarding experience.
     + Current customers who are more likely to leave: develop campaigns or email with special offers for targeting users such as who have completed certain number of purchases (10th purchase) or specific number of coupons or customers who live in specific areas.
 2.  Responsive customer support: automated live chatbot can be integrated to ensure in-time and satisfactory response to complaint. Then, a follow-up system to check customer satisfaction post resolution. On the hand, the platform can create a **customer feedback loop** and **conduct sentiment analysis **to identify common issues and address them promptly to prevent churn.
 3.  Product and after-service optimization: within high-churn rate categories includes Fashion and Mobile Phone, the platform can consider to implement flexible return policies while ensure quality assurance and excellent after-sales service. to build trust and customer loyalty.
